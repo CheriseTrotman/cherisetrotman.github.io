@@ -2,7 +2,9 @@
 title: "CheriseTrotman's Website"
 author: "Cherise Trotman"
 date: "12/02/2022"
-output: html_document
+output:
+  html_document:
+    theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
@@ -29,9 +31,8 @@ Cherise is a young professional with a background in international development, 
 ## Profiles 
 
 * [LinkedIn](https://www.linkedin.com/in/cherisetrotman/)
-* ...
 * [GitHub](http://github.com/CheriseTrotman)
 
 ## Contact
 
-* [youremail@email](mailto:cherisetrotman@gmail.com)
+* [cherisetrotman@gmail.com](mailto:cherisetrotman@gmail.com)
