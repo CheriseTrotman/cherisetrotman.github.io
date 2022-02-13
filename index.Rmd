@@ -13,7 +13,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-![](img/avatar){width=100px}
+![](/cloud/project/cherisetrotman.github.io/img/avatar.jpg){width=100px}
 
 ## About
 
